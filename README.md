@@ -7,4 +7,4 @@
   - timestamp: Дата (с шагом в 1 день).
   - temperature: Среднесуточная температура (в °C).
   - season: Сезон года (зима, весна, лето, осень).
-- API ключь с сайта https://home.openweathermap.org/api_keys
+- API ключ с сайта: https://home.openweathermap.org/api_keys
